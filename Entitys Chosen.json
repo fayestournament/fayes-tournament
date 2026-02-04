@@ -1,6 +1,6 @@
 {
 	"Name": "Entitys Chosen",
-	"Version": 1769727387,
+	"Version": 1770164116,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -15,7 +15,6 @@
 				"52",
 				"7",
 				"300",
-				"8",
 				"258",
 				"11",
 				"13",
@@ -71,6 +70,7 @@
 				"105",
 				"106",
 				"108",
+				"110",
 				"263",
 				"113",
 				"260",
@@ -80,6 +80,7 @@
 				"305",
 				"290",
 				"287",
+				"118",
 				"119",
 				"120",
 				"122",
@@ -187,6 +188,7 @@
 				"280",
 				"261",
 				"76",
+				"80",
 				"89",
 				"96",
 				"296",
@@ -227,6 +229,7 @@
 				"57",
 				"61",
 				"76",
+				"80",
 				"89",
 				"95",
 				"96",
@@ -269,6 +272,7 @@
 				"64",
 				"65",
 				"76",
+				"80",
 				"85",
 				"281",
 				"89",
@@ -2044,10 +2048,11 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -2055,21 +2060,37 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				497,
+				498,
+				495,
+				493,
+				496
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2087,8 +2108,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
@@ -2689,7 +2717,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2714,7 +2742,8 @@
 			"IndividualAddonBans": [
 				688,
 				693,
-				698
+				698,
+				697
 			],
 			"ItemWhitelist": [
 				0,
