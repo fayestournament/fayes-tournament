@@ -1,6 +1,6 @@
 {
 	"Name": "Entitys Chosen",
-	"Version": 1770164116,
+	"Version": 1770393850,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2055,7 +2055,8 @@
 				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
