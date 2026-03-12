@@ -1,6 +1,6 @@
 {
 	"Name": "Entitys Chosen",
-	"Version": 1770393850,
+	"Version": 1773314019,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2645,7 +2645,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
