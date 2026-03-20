@@ -1,6 +1,6 @@
 {
 	"Name": "Entitys Chosen",
-	"Version": 1773314019,
+	"Version": 1774028844,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -80,7 +80,6 @@
 				"305",
 				"290",
 				"287",
-				"118",
 				"119",
 				"120",
 				"122",
@@ -424,7 +423,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"3"
 			],
 			"BalanceTiers": [
 				0,
@@ -438,12 +437,17 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"34",
+				"36",
+				"38",
 				"80"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedPerks": [
+				"181"
+			],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
@@ -2645,7 +2649,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -2718,7 +2722,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -2881,7 +2885,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"246",
 				"127"
@@ -3008,7 +3017,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"127"
 			],
