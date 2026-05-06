@@ -1,6 +1,6 @@
 {
 	"Name": "Entitys Chosen",
-	"Version": 1774868085,
+	"Version": 1777834941,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1850,15 +1850,17 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -1870,14 +1872,27 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				433,
+				428,
+				437,
+				438
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1895,8 +1910,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Trickster",
@@ -2353,7 +2374,7 @@
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -2877,7 +2898,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -2958,15 +2979,17 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2978,14 +3001,30 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				757,
+				758,
+				748,
+				750,
+				751,
+				753,
+				755
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3003,8 +3042,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Ghoul",
